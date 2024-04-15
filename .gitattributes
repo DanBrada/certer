@@ -1,1 +1,2 @@
 *.(ts|tsx|scss) eol=lf
+WASM/*.(js|wasm) linguist-generated
